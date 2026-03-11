@@ -1,0 +1,44 @@
+
+━━━━━━━━━━━━━━━━━━━━━━━
+🔹 파츠 키 설정 안내 / Part Key Bindings Guide
+━━━━━━━━━━━━━━━━━━━━━━━
+
+아래는 모드에서 사용하는 파츠(액세서리 등)의 단축키 설명입니다.  
+게임 내에서 특정 파츠를 보이게 하거나 숨기기 위해 키를 사용할 수 있습니다.
+
+Below is a guide to the shortcut keys used for accessory parts in the mod.  
+These keys allow you to toggle certain items on/off in-game.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 키 설정 예시 / Key Bind Examples:
+
+key = VK_NUMPAD1   →  파츠 1 ON/OFF  Glov
+key = VK_NUMPAD2   →  파츠 2 ON/OFF  Clth
+key = VK_NUMPAD3   →  파츠 3 ON/OFF  Foot
+key = VK_NUMPAD4   →  파츠 4 ON/OFF  Wrst
+key = VK_NUMPAD5   →  파츠 5 ON/OFF  Body
+key = VK_NUMPAD6   →  파츠 6 ON/OFF  Wing
+key = VK_NUMPAD7   →  파츠 7 ON/OFF  Arm
+key = VK_NUMPAD8   →  파츠 8 ON/OFF  Neck
+key = VK_NUMPAD9   →  파츠 9 ON/OFF  Hair 
+key = VK_RIGHT   →  파츠 10 ON/OFF  WrstL 
+key = VK_LEFT   →  파츠 11 ON/OFF  BodyL
+key = VK_DOWN   →  파츠 12 ON/OFF  Bottom
+key = VK_UP   →  파츠 13 ON/OFF   Top
+key = k   →  파츠 12 ON/OFF  Pupi
+key = +   →  파츠 14 ON/OFF   Elbw
+key = -   →  파츠 15 ON/OFF   Ribbon
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+📎 참고 / Notes:
+
+- 키는 키보드 오른쪽 숫자 키패드(NumPad) 기준입니다.  
+- 키 설정은 모드 제작자 또는 ini 파일에서 수정 가능합니다.  
+- 일부 파츠는 기본적으로 비활성화되어 있으며, 키 입력 시 표시됩니다.
+
+━━━━━━━━━━━━━━━━━━━━━━━
+
+✉️ 문의:  
+Patreon: https://www.patreon.com/c/salt0777
